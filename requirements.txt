@@ -1,0 +1,6 @@
+streamlit
+scikit-learn
+onnx
+onnxruntime
+skl2onnx
+numpy
